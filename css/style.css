@@ -99,8 +99,8 @@ footer a:hover {
 
 .tab {
   overflow: hidden;
-  border: 1px solid #ccc;
-  background-color: #f1f1f1;
+  border: 1px solid rgb(5, 3, 3);
+  background-color: #ffffff;
   width: 800px;
   margin: 0 auto;
   border-radius: 0.3rem;
@@ -132,7 +132,7 @@ footer a:hover {
   display: none;
   padding: 0.25rem 0;
   border: 1px solid #ccc;
-  background-color: #fff;
+  background-color: rgb(52, 109, 131);
   border-top: none;
   border-radius: 0.5rem;
   width: 800px;
