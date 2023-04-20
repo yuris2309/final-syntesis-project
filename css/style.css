@@ -4,16 +4,16 @@ html {
 
 body {
   margin: 0;
-  background-image: url("https://media.quepasa.com.ve/site/wp-content/uploads/2020/03/velocidad.jpg");
+  background-image: url("https://assets.mubicdn.net/images/film/28062/image-w1280.jpg?1622746823");
 }
 
 header h1 {
-  background-color: #000000;
   color: rgb(255, 255, 255);
   padding: 3rem 2rem;
-  font-size: 3rem;
+  font-family:'Courier New', Courier, monospace
+  font-size: 30rem;
   text-align: center;
-  border-radius: 0.5rem;
+  border-radius: 80rem;
 }
 
 h2 {
@@ -51,7 +51,7 @@ body p {
   border-radius: 0.5rem;
   padding: 1rem 1rem;
   cursor: pointer;
-  border: 1px solid #ccc;
+  border: 1px solid rgb(0, 0, 0);
   width: 70%;
   margin-left: auto;
   margin-right: auto;
@@ -141,4 +141,9 @@ footer a:hover {
 
 .tabcontent {
   animation: fadeEffect 1s; /* Fading effect takes 1 second */
+}
+#main-title 
+{
+  font-family: "chiller", sans-serif;
+  font-size: 10rem;
 }
